@@ -1,0 +1,10 @@
+.DS_Store
+.build/
+*.xcuserstate
+xcuserdata/
+DerivedData/
+output.txt
+output2.txt
+debug_*.swift
+generate_icon.swift
+ImagePasteFix.iconset/
